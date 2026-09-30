@@ -1,6 +1,6 @@
 # Seif Younes
 
-I build websites and mobile apps with Next.js, Flutter and Supabase, using AI coding agents (Claude Code, Codex). The
+I build websites and mobile apps with Next.js, Flutter and Supabase, using AI coding agents (Claude Code, Codex). I orchestrate the agents and the
 agents write the code. I plan each feature, review the changes the agents make and test them on real devices.
 Mechatronics Engineering student at Alexandria University (graduating 2028) with a flexible schedule, based in
 Alexandria, Egypt and available for full-time remote work.
